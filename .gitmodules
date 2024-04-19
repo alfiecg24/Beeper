@@ -1,0 +1,6 @@
+[submodule "beepserv-installer"]
+	path = beepserv-installer
+	url = https://github.com/alfiecg24/beepserv-installer
+[submodule "ValidationRelay"]
+	path = ValidationRelay
+	url = https://github.com/JJTech0130/ValidationRelay
