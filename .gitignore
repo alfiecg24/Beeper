@@ -1,5 +1,3 @@
 *.ipa
 *.tipa
 .DS_Store
-beepserv-installer/
-ValidationRelay/
